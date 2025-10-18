@@ -7,7 +7,7 @@ body {
 
 header {
     text-align: center;
-    padding: 50px 20px;
+    padding: 60px 30px;
     background: #f4f4f4;
     position: relative;
 }
@@ -39,8 +39,8 @@ h1 {
 /* Navigation Bar */
 .navbar {
     position: absolute;
-    top: 20px;
-    right: 30px;
+    top: 30px;
+    right: 40px;
 }
 
 .navbar ul {
@@ -82,4 +82,5 @@ footer {
     padding: 15px;
     font-size: 0.9rem;
     letter-spacing: 0.5px;
+
 }
